@@ -4,7 +4,7 @@
 
 Public sample of a small, trustworthy automation suite: UI journeys, API contracts, and a CI report a hiring manager can open.
 
-I am a senior freelance test automation engineer and test manager, with 14 years in testing and a background in Selenium, Playwright, ISTQB, and Power BI. This repository is the hands-on part of that story. It shows how I would set up a suite a team can run, read, and trust.
+This repository is the hands-on part of that work. It shows how I set up a suite a team can run, read, and trust.
 
 The targets are public practice systems. [Sauce Demo](https://www.saucedemo.com) is the shop. [Restful Booker](https://restful-booker.herokuapp.com) is the API. Credentials in `.env.example` are the published demo accounts, not secrets.
 
@@ -108,26 +108,31 @@ These are properties of Restful Booker, recorded so a change is obvious:
 
 On every push to `main` and on every pull request, GitHub Actions installs the browsers, runs lint, and runs the full suite. The HTML report is uploaded as the `playwright-report` artifact for 14 days.
 
-A push to `main` also publishes that report with GitHub Pages:
+Each push to `main` publishes that report on GitHub Pages:
 
 <https://jordyr1986.github.io/playwright-typescript-portfolio/>
 
-The Pages URL starts serving after two things are true: this project is on `main`, and Pages is set to deploy from GitHub Actions (see below). Until then, use the workflow artifact.
+## About me
 
-## Enable GitHub Pages
+**Senior QA & Data Quality Consultant | Business Intelligence | 14+ years international experience.**
 
-The deploy job is already in `.github/workflows/ci.yml`. It runs only for pushes to `main`. GitHub will not publish until the repository allows Actions as the Pages source.
+Data-driven, risk-based QA for financial systems, data migrations, and digital transformation. I bridge data engineering teams and business stakeholders.
 
-1. Open **Settings → Pages** for [JordyR1986/playwright-typescript-portfolio](https://github.com/JordyR1986/playwright-typescript-portfolio).
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Merge to `main`. The next green run deploys the report.
+**Tech stack**
 
-Until that source is selected, the Pages job on `main` fails. Lint, tests, and the report artifact still run.
+- **Test automation:** Playwright, CodeceptJS, Selenium; TypeScript, Python
+- **API testing:** Postman, SoapUI, Newman
+- **CI/CD:** GitHub Actions, Jenkins, Azure DevOps
+- **Data & BI:** SQL (advanced), Python ETL validation, Power BI (advanced DAX), Tableau, Microsoft Fabric, Azure Data Factory, SQL Server
+- **Ways of working:** risk-based test strategy, UAT coordination, Agile/Scrum, test management, product ownership
+
+**Certifications:** ISTQB, Power BI.
+
+**Availability:** freelance/contract, remote.
 
 ## Contact
 
 - GitHub: [@JordyR1986](https://github.com/JordyR1986)
-- Email: jordy_r86@hotmail.com
 - LinkedIn: [jordyr86](https://www.linkedin.com/in/jordyr86/)
 - Availability: freelance / contract
 
