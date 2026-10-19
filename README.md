@@ -130,7 +130,7 @@ Replace the placeholders below before you send this repository to a client or re
 
 - GitHub: [@JordyR1986](https://github.com/JordyR1986)
 - Email: jordy_r86@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- LinkedIn: 
 - Availability: freelance / contract
 
 ## License
