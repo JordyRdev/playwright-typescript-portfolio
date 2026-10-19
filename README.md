@@ -126,11 +126,9 @@ Until that source is selected, the Pages job on `main` fails. Lint, tests, and t
 
 ## Contact
 
-Replace the placeholders below before you send this repository to a client or recruiter.
-
 - GitHub: [@JordyR1986](https://github.com/JordyR1986)
 - Email: jordy_r86@hotmail.com
-- LinkedIn:
+- LinkedIn: [jordyr86](https://www.linkedin.com/in/jordyr86/)
 - Availability: freelance / contract
 
 ## License
