@@ -112,30 +112,6 @@ Each push to `main` publishes that report on GitHub Pages:
 
 <https://jordyr1986.github.io/playwright-typescript-portfolio/>
 
-## About me
-
-**Senior QA & Data Quality Consultant | Business Intelligence | 14+ years international experience.**
-
-Data-driven, risk-based QA for financial systems, data migrations, and digital transformation. I bridge data engineering teams and business stakeholders.
-
-**Tech stack**
-
-- **Test automation:** Playwright, CodeceptJS, Selenium; TypeScript, Python
-- **API testing:** Postman, SoapUI, Newman
-- **CI/CD:** GitHub Actions, Jenkins, Azure DevOps
-- **Data & BI:** SQL (advanced), Python ETL validation, Power BI (advanced DAX), Tableau, Microsoft Fabric, Azure Data Factory, SQL Server
-- **Ways of working:** risk-based test strategy, UAT coordination, Agile/Scrum, test management, product ownership
-
-**Certifications:** ISTQB, Power BI.
-
-**Availability:** freelance/contract, remote.
-
-## Contact
-
-- GitHub: [@JordyR1986](https://github.com/JordyR1986)
-- LinkedIn: [jordyr86](https://www.linkedin.com/in/jordyr86/)
-- Availability: freelance / contract
-
 ## License
 
 [MIT](LICENSE)
