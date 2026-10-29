@@ -1,6 +1,6 @@
 # Playwright TypeScript Test Portfolio
 
-[![CI](https://github.com/JordyR1986/playwright-typescript-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/JordyR1986/playwright-typescript-portfolio/actions/workflows/ci.yml)
+[![CI](https://github.com/JordyRdev/playwright-typescript-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/JordyRdev/playwright-typescript-portfolio/actions/workflows/ci.yml)
 
 Public sample of a small, trustworthy automation suite: UI journeys, API contracts, and a CI report a hiring manager can open.
 
@@ -110,7 +110,7 @@ On every push to `main` and on every pull request, GitHub Actions installs the b
 
 Each push to `main` publishes that report on GitHub Pages:
 
-<https://jordyr1986.github.io/playwright-typescript-portfolio/>
+<https://JordyRdev.github.io/playwright-typescript-portfolio/>
 
 ## License
 
