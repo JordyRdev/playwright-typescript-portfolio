@@ -8,6 +8,9 @@ This repository is the hands-on part of that work. It shows how I set up a suite
 
 The targets are public practice systems. [Sauce Demo](https://www.saucedemo.com) is the shop. [Restful Booker](https://restful-booker.herokuapp.com) is the API. Credentials in `.env.example` are the published demo accounts, not secrets.
 
+<img width="1251" height="605" alt="Playwright HTML report: 45 tests passing across 4 browsers" src="https://github.com/user-attachments/assets/bca40bba-2d23-4512-810c-3c50f23de0ae" />
+The live report: https://jordyrdev.github.io/playwright-typescript-portfolio/
+
 ## What this demonstrates
 
 - **Risk-based selection.** Login, cart, checkout, auth, and booking CRUD. Each test protects a decision a user or a client system can get wrong.
